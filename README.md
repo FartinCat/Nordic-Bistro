@@ -48,6 +48,6 @@ This repository is strictly governed by a **Commercial License**.
 - **Commercial deployment, template resale, and unauthorized client work are strictly prohibited.**
 
 For pricing tiers (Standard, Agency, Enterprise Buyout), please see `docs/market-evaluations/MARKET_EVALUATION_01.md` or contact the author.
-
+---
 ---
 *Developed by FartinCat.*
