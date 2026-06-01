@@ -17,6 +17,8 @@
 - **Extreme Optimization**: Aggressive Rollup chunking guarantees a 97.5% reduction in initial JS load times.
 - **AI Concierge Ready**: Pre-architected hooks for Google Gemini API integration to handle live reservations.
 
+---
+
 ## 🛠️ Technology Stack
 
 | Domain | Technology |
